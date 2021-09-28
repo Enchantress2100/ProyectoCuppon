@@ -1,0 +1,76 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    height: 62px;
+}
+
+.barra{
+    z-index: 1;
+}
+
+.imagen{
+    width: 278px;
+}
+
+.tarjeta-cuppon__cuerpo{
+    width: 278px;
+    height: 199px;
+}
+
+.tarjeta-cuppon__nombre{
+    font-weight: 300;
+    width: 261px;
+    height: 73px;
+}
+
+.tarjeta-cuppon__precios{
+    display: flex;
+    justify-content: end;
+    align-items: baseline;
+    line-height: 24px;
+}
+
+
+.tarjeta-cuppon__pnormal{
+font-size: 16px;
+margin-right: 11px;
+}
+
+.tarjeta-cuppon__poferta{
+    font-size: 20px;   
+}
+
+.tarjeta-cuppon__producto{
+    line-height: 19px;
+    margin-bottom: 2px;
+}
+
+.tarjeta-cuppon__ubicacion{
+    font-weight: 300;
+    font-size: small;
+    color: #707070;
+    line-height: 15px;
+}
+
+.tarjeta-cuppon__producto, .tarjeta-cuppon__pnormal, .formulario,.derechos{
+    font-weight: 300;
+    color: #707070;   
+}
+
+.form-titulo{
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.boton-enviar{
+    height: 40px;
+    width: 112px;
+}
+
+.cuppon-negro{
+    height: 24px;
+    width: 82px;
+}
+
